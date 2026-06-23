@@ -13,13 +13,13 @@ title: ChorePup
     <h2>Kids allowance, chores, habits, points, and screen-time rewards.</h2>
     <p>ChorePup helps parents turn everyday routines into clear points kids can understand. Track chores, approve requests, manage rewards, and keep the system fair without child banking, ads, or complicated setup.</p>
     <div class="chorepup-cta-row">
-      <a class="chorepup-button" href="#tester-signup">Tester signup coming soon</a>
-      <a class="chorepup-button-secondary" href="#how-it-works">See how it works</a>
+      <p><a class="chorepup-button" href="#tester-signup">Tester signup coming soon</a></p>
+      <p><a class="chorepup-button-secondary" href="#how-it-works">See how it works</a></p>
     </div>
   </div>
 
   <div class="chorepup-mascot-card">
-    <img src="/assets/chorepup/nitro-icon.png" alt="Nitro, the ChorePup mascot">
+    <img src="/assets/chorepup/nitro-banner.png" alt="Nitro, the ChorePup mascot">
     <strong>Meet Nitro</strong>
     <span>A friendly guide for kids, with parents in control.</span>
   </div>
