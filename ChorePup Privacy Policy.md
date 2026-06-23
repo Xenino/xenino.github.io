@@ -68,7 +68,7 @@ Please include the email address linked to the account and the family ID if avai
 
 You can also review our deletion instructions here:
 
-[Account and Data Deletion Request](./ChorePup%20Account%20Data%20Deletion%20Request.html)
+[Account and Data Deletion Request](/ChorePup%20Account%20Data%20Deletion%20Request.html)
 
 ## Children’s Privacy
 
