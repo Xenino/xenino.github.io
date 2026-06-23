@@ -1,88 +1,152 @@
-# ChorePup
-### Track Chores, Habits, Points and Screen-Time Rewards!
+---
+title: ChorePup
+---
 
-#### Turn family routines into points kids can see.
-ChorePup helps parents track chores, habits, points, allowance-style rewards and screen-time goals in one simple family app.
+<link rel="stylesheet" href="/assets/chorepup/chorepup.css">
 
-ChorePup is parent-controlled, kid-friendly, and no child banking required.
+<div class="chorepup-page">
 
-##### Today: 120 Points
-- Make Bed: 5 Points
-- Reading: 20 Points
-- Clean Room: 10 Points
-- Unload Dishwasher: 10 Points
-- 1 Hr Game Time: -30 Points
+<section class="chorepup-hero">
+  <div>
+    <div class="chorepup-eyebrow">🐾 Preparing for Google Play testing</div>
+    <h1>ChorePup</h1>
+    <h2>Kids allowance, chores, habits, points, and screen-time rewards.</h2>
+    <p>ChorePup helps parents turn everyday routines into clear points kids can understand. Track chores, approve requests, manage rewards, and keep the system fair without child banking, ads, or complicated setup.</p>
+    <div class="chorepup-cta-row">
+      <a class="chorepup-button" href="#tester-signup">Tester signup coming soon</a>
+      <a class="chorepup-button-secondary" href="#how-it-works">See how it works</a>
+    </div>
+  </div>
 
-Less nagging, clear expectations, fair points.
-Built for *real* family life
+  <div class="chorepup-mascot-card">
+    <img src="/assets/chorepup/nitro-icon.png" alt="Nitro, the ChorePup mascot">
+    <strong>Meet Nitro</strong>
+    <span>A friendly guide for kids, with parents in control.</span>
+  </div>
+</section>
 
-### Chores, Habits, Points and Rewards in One Place
-ChorePup is designed for parents who want a simple system that kids can understand and families can actually keep using.
+<section class="chorepup-section" id="how-it-works">
+  <h2>Less nagging. Clear expectations. Fair points.</h2>
+  <p>ChorePup is built for real family life: chores, reading, routines, behavior goals, screen-time rewards, allowance-style rewards, and manual adjustments all in one parent-controlled system.</p>
 
-#### Track Chores and Habits
-Create tasks for chores, reading, hygiene, routines, behavior goals, and bonuses.
+  <div class="chorepup-grid">
+    <div class="chorepup-card">
+      <div class="chorepup-icon-bubble">✅</div>
+      <h3>Create tasks and routines</h3>
+      <p>Set up chores, habits, routines, reading goals, hygiene tasks, bonuses, and custom responsibilities for each child.</p>
+    </div>
+    <div class="chorepup-card">
+      <div class="chorepup-icon-bubble">⭐</div>
+      <h3>Approve points</h3>
+      <p>Review requests, approve completed work, decline when needed, or manually adjust points to keep the system fair.</p>
+    </div>
+    <div class="chorepup-card">
+      <div class="chorepup-icon-bubble">🎮</div>
+      <h3>Reward progress</h3>
+      <p>Let kids work toward screen time, privileges, activities, treats, allowance-style rewards, or custom family goals.</p>
+    </div>
+  </div>
+</section>
 
-#### Use Family Points
-Give kids visible progress without needing a bank account, debit card, or payment setup.
+<section class="chorepup-section">
+  <h2>Designed for parents. Simple for kids.</h2>
+  <p>Use the screenshot slots below for real app screenshots before submitting the page to Google Play. Replace the placeholder panels with images named <code>dashboard.png</code>, <code>child-mode.png</code>, and <code>rewards.png</code> in <code>/assets/chorepup/screenshots/</code>.</p>
 
-#### Tailored Rewards
-Let kids work towards screen time, priviledges, treats, activities, or other custom rewards!
+  <div class="chorepup-demo-row">
+    <div class="chorepup-phone">
+      <div class="chorepup-phone-placeholder">
+        <div class="chorepup-phone-top"></div>
+        <div class="chorepup-fake-screen-title">Parent Dashboard</div>
+        <div class="chorepup-fake-row"><span>V</span><span class="chorepup-fake-pill">120 pts</span></div>
+        <div class="chorepup-fake-row"><span>R</span><span class="chorepup-fake-pill">85 pts</span></div>
+        <div class="chorepup-fake-row"><span>Today</span><span>+45 pts</span></div>
+        <div class="chorepup-fake-row"><span>Pending</span><span>3 requests</span></div>
+      </div>
+    </div>
+    <div class="chorepup-phone">
+      <div class="chorepup-phone-placeholder">
+        <div class="chorepup-phone-top"></div>
+        <div class="chorepup-fake-screen-title">Child Mode</div>
+        <div class="chorepup-fake-row"><span>Make bed</span><span class="chorepup-fake-pill">+5</span></div>
+        <div class="chorepup-fake-row"><span>Read 20 min</span><span class="chorepup-fake-pill">+20</span></div>
+        <div class="chorepup-fake-row"><span>Clean room</span><span class="chorepup-fake-pill">+10</span></div>
+        <div class="chorepup-fake-row"><span>Status</span><span>Pending</span></div>
+      </div>
+    </div>
+    <div class="chorepup-phone">
+      <div class="chorepup-phone-placeholder">
+        <div class="chorepup-phone-top"></div>
+        <div class="chorepup-fake-screen-title">Rewards</div>
+        <div class="chorepup-fake-row"><span>1 hr game time</span><span class="chorepup-fake-pill">30 pts</span></div>
+        <div class="chorepup-fake-row"><span>Family movie</span><span class="chorepup-fake-pill">75 pts</span></div>
+        <div class="chorepup-fake-row"><span>Custom reward</span><span class="chorepup-fake-pill">100 pts</span></div>
+        <div class="chorepup-fake-row"><span>Goal progress</span><span>68%</span></div>
+      </div>
+    </div>
+  </div>
+</section>
 
-#### Parental Controls
-Parents manage approvals, rewards, balances, settings, point adjustments, and routines.
+<section class="chorepup-section">
+  <h2>What ChorePup helps families manage</h2>
+  <div class="chorepup-grid">
+    <div class="chorepup-card">
+      <h3>Chores and habits</h3>
+      <p>Track everyday responsibilities, routines, reading, hygiene, school habits, behavior goals, and extra-help tasks.</p>
+    </div>
+    <div class="chorepup-card">
+      <h3>Family points</h3>
+      <p>Give kids visible progress without requiring child banking, debit cards, or real-money payment setup.</p>
+    </div>
+    <div class="chorepup-card">
+      <h3>Parent controls</h3>
+      <p>Parents manage child profiles, requests, approvals, rewards, routines, balances, family access, and admin roles.</p>
+    </div>
+  </div>
+</section>
 
-### How It Works:
-ChorePup keeps the daily loop clear. Kids see what needs to be done, parents review what counts and rewards stay easy to understand.
-1. Create Tasks and Routines. Set up tasks for each child with point values that fit your household.
-2. Review Completions. Approve, decline, or adjust points earned, keeping the system fair.
-3. Let Kids Work Towards Rewards. Use points for screen time, allowance-style rewards, priviledges and more!
+<section class="chorepup-section">
+  <h2>Planned pricing</h2>
+  <p>ChorePup will be family-friendly and ad-free. During early testing, features may be unlocked so testers can help review the full experience.</p>
 
+  <div class="chorepup-split">
+    <div class="chorepup-card chorepup-price">
+      <h3>Free</h3>
+      <ul>
+        <li>Up to 2 child profiles</li>
+        <li>Recent transaction history</li>
+        <li>Basic chores, rewards, and goals</li>
+        <li>Manual point adjustments</li>
+      </ul>
+    </div>
+    <div class="chorepup-card chorepup-price featured">
+      <h3>Premium</h3>
+      <ul>
+        <li>Unlimited child profiles</li>
+        <li>Full transaction history</li>
+        <li>Child device linking</li>
+        <li>Routines, multipliers, and custom family settings</li>
+        <li>Co-parent and admin controls</li>
+      </ul>
+    </div>
+  </div>
 
-### A Friendly Guide For Kids
-Meet Nitro!
+  <div class="chorepup-note">Planned Premium pricing: $4.99/month, $44.99/year, $69.99 founder lifetime option, and $99.99 standard lifetime option. Pricing and features may be adjusted before public launch.</div>
+</section>
 
-Nitro helps make the app feel warm, encouraging and kid-friendly while parents stay in control of the actual system.
+<section class="chorepup-section" id="tester-signup">
+  <h2>Want to help test ChorePup?</h2>
+  <p>A Google Play testing link is coming soon. Early testers will help shape the launch version by testing chores, routines, rewards, requests, family setup, child mode, and premium features.</p>
+</section>
 
+<section class="chorepup-section">
+  <h2>Privacy and support</h2>
+  <p>ChorePup does not show ads and does not sell family data. Child mode is designed to be parent-controlled and kid-friendly.</p>
+  <p><a href="/ChorePup%20Privacy%20Policy.html">Privacy Policy</a> · <a href="/ChorePup%20Account%20Data%20Deletion%20Request.html">Account and Data Deletion Request</a></p>
+  <p>Support: <strong>support@xenithhorizon.com</strong></p>
+</section>
 
-### Want To Follow ChorePup's Launch?
-Link coming soon to sign up as a tester!
+<footer class="chorepup-footer">
+  <p>© 2026 Xenith Horizon Group LLC. ChorePup is preparing for Google Play testing.</p>
+</footer>
 
-
-### What's the Catch?
-None!
-
-ChorePup is dedicated to being family-friendly. We won't have any advertisements within the app!
-There will be a Free version and a Premium subscription available at launch, with a 14 day free trial of Premium.
-
-#### Free Features:
-- Up to 2 Child profiles
-- Access to the last 14 days of transactions
-- Basic Tasks, Rewards and Goal options
-- Manual adjustments
-
-#### Premium Features:
-- Unlimited Child profiles
-- Fully customizable Rasks, Rewards and Goals
-- Child Device Linking
-- Routines
-- Multipliers
-- Family PIN Changes
-- Custom Family Name
-- Full Transaction History
-- Request Photo Proof (in development)
-- Co-Parent / Admin controls
-
-#### Premium Cost:
-- $4.99 per Month
-- $44.99 per Year
-- $69.99 Lifetime with Founder Discount (taking part of closed testing)
-- $99.99 Lifetime without Founder Discount
-
-
-Review our privacy policy [here](https://github.com/Xenino/xenino.github.io/blob/main/ChorePup%20Privacy%20Policy.md)
-
-
-Go [here](https://github.com/Xenino/xenino.github.io/blob/main/ChorePup%20Account%20Data%20Deletion%20Request.md) to submit an account deletion request.
-
-
-Please email [support@xenithhorizon.com](mailto:support@xenithhorizon.com) with any questions, feedback, or requests you have.
+</div>

@@ -1,65 +1,86 @@
 # ChorePup Privacy Policy
-Effective Date: June 23, 2026
 
-ChorePup is operated by Xenith Horizon Group LLC (“ChorePup,” “we,” “our,” or “us”). This Privacy Policy explains how ChorePup collects, uses, stores, and protects information when parents and families use the ChorePup mobile app.
+**Effective Date:** June 23, 2026  
+**Operated by:** Xenith Horizon Group LLC
 
-ChorePup is a parent-controlled chores, allowance, points, rewards, goals, and screen-time reward tracking app. Children do not create public profiles, do not communicate with other users, and do not have independent public accounts in the app. Parents control family setup, child profiles, tasks, rewards, approvals, and family access.
+ChorePup is a parent-controlled chores, allowance-style points, rewards, goals, routines, and screen-time reward tracking app. This Privacy Policy explains how ChorePup collects, uses, stores, and protects information when parents and families use the ChorePup mobile app.
+
+Children do not create public profiles, do not communicate with other users, and do not have independent public accounts in ChorePup. Parents control family setup, child profiles, tasks, rewards, approvals, and family access.
 
 ## Information We Collect
-ChorePup collects only the information needed to provide the app’s family chore and reward tracking features.
-We may collect:
-•	Parent account information, such as an email address when a parent links a Google account.
-•	Firebase user identifiers used to keep parent and family accounts connected securely.
-•	Family setup information, such as family name, family ID, parent roles, and family PIN settings.
-•	Child profile information entered by a parent, such as a child’s name or nickname, avatar choice, point balance, goals, assigned tasks, chores, rewards, and point transaction history.
-•	App activity created inside ChorePup, such as task requests, reward requests, approval decisions, routines, notes entered by a parent or child, and transaction history.
-ChorePup does not collect precise location, approximate location, contacts, photos, videos, audio recordings, advertising identifiers, social media account data, or payment information.
 
-## Children’s Privacy
-ChorePup is designed for parent-controlled family use. Children do not create independent public accounts, do not provide contact information, and do not communicate publicly through the app.
-Parents may create child profiles and enter information such as names or nicknames, chores, rewards, goals, and point history. This information is used only to provide ChorePup’s family chore and reward tracking features.
-Parents are responsible for deciding what information to enter for child profiles. We recommend using nicknames instead of full legal names when possible.
-If we become aware that a child has provided personal information outside of a parent-controlled family setup, we will take reasonable steps to delete that information.
+ChorePup collects only the information needed to provide the app’s family chore and reward tracking features. We may collect:
+
+- Parent account information, such as an email address when a parent links a Google account.
+- Firebase user identifiers used to keep parent and family access connected securely.
+- Family setup information, such as family name, family ID, parent roles, and family PIN settings.
+- Child profile information entered by a parent, such as a child’s name or nickname, emoji avatar choice, point balance, goals, assigned tasks, chores, rewards, and point transaction history.
+- App activity created inside ChorePup, such as task requests, reward requests, approval decisions, routines, notes entered in the app, and transaction history.
+
+## Child Profiles and Child Mode
+
+Child profiles are created and managed by parents. A child profile may include a child’s name or nickname, emoji avatar, points, tasks, rewards, requests, and app activity related to chores or rewards.
+
+Child Mode does not require a separate child sign-in. Families may share one device across multiple children, use parent-managed devices, or choose not to use a child device at all.
+
+## Photos, Videos, Audio, and Contacts
+
+ChorePup does not collect photos, videos, audio recordings, contacts, or address book information.
+
+ChorePup uses emoji avatars for child profiles. Parents should not enter sensitive personal information into names, notes, tasks, rewards, or other free-text fields.
 
 ## How We Use Information
+
 We use information to:
-•	Create and manage family accounts.
-•	Sync family, child profile, task, reward, goal, and transaction data across approved family devices.
-•	Allow parents to approve, adjust, retry, or deny child requests.
-•	Track points, rewards, goals, routines, and deleted child history.
-•	Support account recovery, family access, and role permissions.
-•	Respond to support, privacy, and deletion requests.
-•	Maintain app security and prevent unauthorized family access.
-We do not sell personal information. We do not use family or child profile information for advertising. We do not show ads in ChorePup.
 
-## How Information Is Stored
-ChorePup uses Google Firebase services, including Firebase Authentication and Cloud Firestore, to authenticate parent accounts and store family app data. Data is transmitted using secure connections and stored in Firebase-controlled cloud infrastructure.
-Some app information may also be stored locally on the user’s device so the app can function properly.
-Sharing of Information
-We do not sell user data and do not share family data for advertising or marketing.
-We use service providers, such as Google Firebase, to process and store app data on our behalf so ChorePup can function. These service providers process data according to their own service terms and security practices.
-We may disclose information if required by law, legal process, or to protect the safety, rights, or security of users, the app, or others.
+- Create and manage family accounts.
+- Track chores, habits, routines, points, rewards, goals, and requests.
+- Let parents approve, decline, adjust, or review activity.
+- Sync app data across devices when cloud features are used.
+- Provide support, troubleshoot issues, and improve ChorePup.
+- Protect family data and prevent unauthorized access.
 
-## Data Retention
-We keep family and app data for as long as needed to provide ChorePup’s features or until a parent requests deletion.
-Deleted child profiles may be hidden from active family screens while preserving transaction history so parents can view past family records. Parents may restore deleted child profiles from the app where available.
-Account and Data Deletion
-Parents may request deletion of their ChorePup account and associated family data by contacting us at:
-support@xenithhorizon.com
-Please include the email address linked to the ChorePup account and a short request such as “Delete my ChorePup account.”
-We may need to verify that the request comes from an authorized parent, account owner, or family administrator before deleting account or family data. Once verified, we will delete or anonymize applicable account and family data unless we are required to retain certain information for legal, security, fraud-prevention, or legitimate business reasons.
-Security
+## Data Sharing
 
-We use reasonable technical and organizational safeguards to protect information. No method of transmission or storage is completely secure, but we work to protect ChorePup data from unauthorized access, misuse, or loss.
-International Users
+ChorePup does not sell family data.
 
-ChorePup is currently intended for use in the United States. If you use the app from another location, your information may be processed and stored in the United States or other locations where our service providers operate.
-Changes to This Policy
+We may use trusted service providers, such as Firebase and Google services, to operate authentication, cloud storage, database sync, app security, and related app infrastructure.
 
-We may update this Privacy Policy from time to time. If we make material changes, we may notify users in the app or update the effective date above.
+We may disclose information if required by law or to protect ChorePup, users, families, or others from misuse, fraud, security threats, or harm.
+
+## Data Storage and Security
+
+ChorePup uses Firebase and related Google services to store and sync app data. We use security rules, authentication, and role-based access controls to help protect family data.
+
+No method of electronic storage or transmission is completely secure, but we work to use reasonable safeguards appropriate for the app’s purpose and data.
+
+## Parent Controls
+
+Parents control family setup, child profiles, points, rewards, approvals, family access, and administrative roles. Parents may edit or delete information inside the app when those features are available.
+
+## Account and Data Deletion
+
+Parents may request account and data deletion by emailing:
+
+**support@xenithhorizon.com**
+
+Please include the email address linked to the account and the family ID if available. We may need to verify the request before deleting account or family data.
+
+You can also review our deletion instructions here:
+
+[Account and Data Deletion Request](./ChorePup%20Account%20Data%20Deletion%20Request.md)
+
+## Children’s Privacy
+
+ChorePup is intended to be used under parent control. Children do not create public accounts or public profiles. Parents are responsible for setting up and managing child profiles and family information.
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time. If we make material changes, we will update the effective date and make the revised policy available through our website or app.
 
 ## Contact Us
-For privacy, support, or account deletion requests, contact:
-Xenith Horizon Group LLC
-Email: [support@xenithhorizon.com](mailto:support@xenithhorizon.com)
 
+For questions, privacy requests, support, or data deletion requests, contact:
+
+**Xenith Horizon Group LLC**  
+**support@xenithhorizon.com**
