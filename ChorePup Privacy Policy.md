@@ -1,6 +1,6 @@
 ---
-
 ## title: ChorePup Privacy Policy
+---
 
 # ChorePup Privacy Policy
 
