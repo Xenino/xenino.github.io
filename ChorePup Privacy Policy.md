@@ -1,6 +1,6 @@
 ---
-
-## title: ChorePup Privacy Policy
+title: ChorePup Privacy Policy
+---
 
 <link rel="stylesheet" href="/assets/chorepup/chorepup.css">
 
