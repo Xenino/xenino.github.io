@@ -66,8 +66,15 @@ title: ChorePup Account and Data Deletion Request
   <h2>Copy/Paste Request Template</h2>
   <p>You can copy and paste this template into your email if needed.</p>
 
-  <div class="chorepup-card">
-<pre><code>Request type: Delete my account and associated data / Delete some or all app data only
+  <div class="chorepup-card chorepup-copy-card chorepup-template-card">
+    <div class="chorepup-template-header">
+      <button type="button" class="chorepup-button-secondary" id="copyDeletionTemplateButton">
+        Copy Template
+      </button>
+      <span class="chorepup-copy-status" id="copyDeletionTemplateStatus" aria-live="polite"></span>
+    </div>
+
+<pre id="deletionRequestTemplate"><code>Request type: Delete my account and associated data / Delete some or all app data only
 
 Email used for ChorePup or Google Sign-In:
 
@@ -78,7 +85,6 @@ Family name, if known:
 What data should be deleted:
 
 I understand that ChorePup may need to verify that I am authorized to request deletion of the account, family, or family data listed above.</code></pre>
-
   </div>
 </section>
 
@@ -182,5 +188,62 @@ I understand that ChorePup may need to verify that I am authorized to request de
   <p><a href="/">Back to ChorePup Home</a> · <a href="/ChorePup%20Privacy%20Policy.html">Privacy Policy</a></p>
   <p>© 2026 Xenith Horizon Group LLC. ChorePup — Family chores, points, rewards, and routines.</p>
 </footer>
+
+<script>
+  (function () {
+    const button = document.getElementById('copyDeletionTemplateButton');
+    const status = document.getElementById('copyDeletionTemplateStatus');
+    const template = document.getElementById('deletionRequestTemplate');
+
+    if (!button || !status || !template) {
+      return;
+    }
+
+    function showStatus(message) {
+      status.textContent = message;
+
+      window.clearTimeout(window.chorepupCopyTemplateTimeout);
+      window.chorepupCopyTemplateTimeout = window.setTimeout(function () {
+        status.textContent = '';
+      }, 3000);
+    }
+
+    async function copyText(text) {
+      if (navigator.clipboard && window.isSecureContext) {
+        await navigator.clipboard.writeText(text);
+        return;
+      }
+
+      const textArea = document.createElement('textarea');
+      textArea.value = text;
+      textArea.setAttribute('readonly', '');
+      textArea.style.position = 'fixed';
+      textArea.style.top = '-9999px';
+      textArea.style.left = '-9999px';
+
+      document.body.appendChild(textArea);
+      textArea.select();
+      document.execCommand('copy');
+      textArea.remove();
+    }
+
+    button.addEventListener('click', async function () {
+      const templateText = template.innerText.trim();
+      const originalText = button.textContent;
+
+      try {
+        await copyText(templateText);
+        button.textContent = 'Copied!';
+        showStatus('Template copied to clipboard.');
+
+        window.setTimeout(function () {
+          button.textContent = originalText;
+        }, 1500);
+      } catch (error) {
+        showStatus('Could not copy automatically. Please highlight and copy the template manually.');
+      }
+    });
+  })();
+</script>
 
 </div>
