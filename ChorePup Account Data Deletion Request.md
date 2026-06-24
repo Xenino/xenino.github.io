@@ -1,6 +1,6 @@
 ---
-
-## title: ChorePup Account and Data Deletion Request
+title: ChorePup Account and Data Deletion Request
+---
 
 <link rel="stylesheet" href="/assets/chorepup/chorepup.css">
 
