@@ -19,6 +19,7 @@ title: ChorePup Account and Data Deletion Request
   </div>
 
   <div class="chorepup-mascot-card">
+    <img src="/assets/chorepup/nitro-icon.png" alt="Nitro, the ChorePup mascot">
     <strong>Effective Date</strong>
     <span>June 24, 2026</span>
   </div>
