@@ -19,6 +19,7 @@ title: ChorePup Privacy Policy
   </div>
 
   <div class="chorepup-mascot-card">
+    <img src="/assets/chorepup/nitro-privacy.png" alt="Nitro, the ChorePup mascot">
     <strong>Effective Date</strong>
     <span>June 24, 2026</span>
   </div>
@@ -49,7 +50,6 @@ title: ChorePup Privacy Policy
       </ul>
     </div>
 
-```
 <div class="chorepup-card">
   <div class="chorepup-icon-bubble">🏠</div>
   <h3>Family Setup Information</h3>
@@ -71,7 +71,6 @@ title: ChorePup Privacy Policy
     <li>Point balances, goals, reward preferences, tasks, routines, and approval history</li>
   </ul>
 </div>
-```
 
   </div>
 
@@ -113,7 +112,6 @@ title: ChorePup Privacy Policy
       <p>ChorePup does not require families to upload child photos, videos, or audio.</p>
     </div>
 
-```
 <div class="chorepup-card">
   <div class="chorepup-icon-bubble">📒</div>
   <h3>Contacts</h3>
@@ -125,7 +123,6 @@ title: ChorePup Privacy Policy
   <h3>Location</h3>
   <p>ChorePup does not collect or share precise physical location.</p>
 </div>
-```
 
   </div>
 
@@ -142,7 +139,6 @@ title: ChorePup Privacy Policy
       <p>This content is intended only for use within the private family group connected to the ChorePup family account.</p>
     </div>
 
-```
 <div class="chorepup-card">
   <h3>No Public Posting</h3>
   <p>ChorePup does not provide public profiles, public posting, public feeds, public chat, public image sharing, or communication with strangers.</p>
@@ -152,7 +148,6 @@ title: ChorePup Privacy Policy
   <h3>Parent Controlled</h3>
   <p>Parents control family setup, family access, child profiles, approvals, rewards, routines, and administrative roles.</p>
 </div>
-```
 
   </div>
 
@@ -188,7 +183,6 @@ title: ChorePup Privacy Policy
       <p>ChorePup does not sell user data.</p>
     </div>
 
-```
 <div class="chorepup-card">
   <h3>No Advertising SDKs</h3>
   <p>ChorePup does not use advertising SDKs and does not share personal information for third-party advertising.</p>
@@ -198,7 +192,6 @@ title: ChorePup Privacy Policy
   <h3>Private Family Visibility</h3>
   <p>Family content may be visible to other members of the same private family group, depending on their role and app permissions.</p>
 </div>
-```
 
   </div>
 
