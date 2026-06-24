@@ -45,7 +45,6 @@ title: ChorePup Account and Data Deletion Request
       <p>Tell us whether you want account deletion or data deletion only.</p>
     </div>
 
-```
 <div class="chorepup-card">
   <div class="chorepup-icon-bubble">✉️</div>
   <h3>Account Email</h3>
@@ -57,7 +56,6 @@ title: ChorePup Account and Data Deletion Request
   <h3>Family Details</h3>
   <p>Include your Family ID and family name if you know them.</p>
 </div>
-```
 
   </div>
 
@@ -94,13 +92,11 @@ I understand that ChorePup may need to verify that I am authorized to request de
       <p>You may request deletion of your ChorePup account and associated app data.</p>
     </div>
 
-```
 <div class="chorepup-card">
   <div class="chorepup-icon-bubble">🧹</div>
   <h3>Data Deletion Only</h3>
   <p>You may request deletion of some or all ChorePup app data without deleting your account.</p>
 </div>
-```
 
   </div>
 
