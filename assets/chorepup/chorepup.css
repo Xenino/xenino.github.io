@@ -309,3 +309,38 @@
     padding: 28px;
   }
 }
+
+.chorepup-copy-card {
+  overflow: hidden;
+}
+
+.chorepup-template-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+
+.chorepup-copy-status {
+  color: var(--cp-blue-dark);
+  font-weight: 800;
+  min-height: 24px;
+}
+
+.chorepup-template-card pre {
+  margin: 0;
+  padding: 16px;
+  overflow-x: auto;
+  border-radius: 16px;
+  border: 1px solid var(--cp-border);
+  background: var(--cp-soft);
+  color: var(--cp-ink);
+  white-space: pre-wrap;
+}
+
+.chorepup-template-card code {
+  font-family: Consolas, Monaco, "Courier New", monospace;
+  font-size: 14px;
+}
